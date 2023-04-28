@@ -1,7 +1,8 @@
 # Project Name
+SKAE Website
 
 # Description
-Briefly describe what your project does and its purpose.
+This website was build for temporary use for SKAE Spoken English Institute .
 
 # Installation
 Explain how to install and set up the project on the user's computer.
